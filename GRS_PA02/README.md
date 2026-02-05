@@ -23,6 +23,12 @@ The repository consists of the following components:
 
 ## Experimental Analysis & Visualizations
 
+### Zerocopy working
+<figure>
+<img src="MT25019_Part_A_zerocopy.png" alt="0copy" width="500"/>
+<figcaption> Kernel diagram for zero copy</figcaption>
+</figure>
+
 The following plots are critical for interpreting the system performance:
 
 ### 1. Throughput & Latency
