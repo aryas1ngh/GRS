@@ -2,3 +2,6 @@
 server
 client
 generate_hardcoded.py
+
+# report
+*.pdf
