@@ -21,6 +21,15 @@ The repository consists of the following components:
 
 ---
 
+## Workflow
+When we run ```MT25019_Parts_B_C_run_experiment.sh```, this script:
+- collects app level metrics (throughput, latency)
+- collects CPU cycles, L1/LLC cache misses, context switches from perf command
+- collects all of these metrics for every combination of threads and message size
+- plots the relevant plots using ```MT25019_Part_D_plot.py``` file.
+
+---
+
 ## Experimental Analysis & Visualizations
 
 ### Zerocopy working
