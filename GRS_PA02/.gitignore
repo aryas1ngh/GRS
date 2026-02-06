@@ -6,4 +6,5 @@ generate_hardcoded.py
 # report
 *.pdf
 
+.DS_Store
 TODO
