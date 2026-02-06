@@ -1,6 +1,6 @@
 # MT25019
-# cleanup namespaces 
 # required only when experiment is rerun, for cleaning up previous runs
+# cleanup namespaces 
 
 NS_SERVER="ns_server_arya"
 NS_CLIENT="ns_client_arya"

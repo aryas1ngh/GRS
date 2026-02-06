@@ -1,4 +1,5 @@
 #!/bin/bash
+# MT25019 Part B and C Runner Script
 NS_SERVER="ns_server_arya"
 NS_CLIENT="ns_client_arya"
 
